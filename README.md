@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Umang Gupta!
 
-<!--
-**umanggupta090/umanggupta090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student (2024–2028)  
+💻 Currently learning: C, Git, DSA & Web Development  
+🚀 Passionate about building skills & growing step-by-step  
+🌱 Open to learning, collaboration & growth in tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Learning:
+- 💡 C Programming
+- 🧠 Data Structures & Algorithms (DSA)
+- 🌐 Web Development (HTML, CSS, JS - coming soon)
+- 🛠️ Git & GitHub basics
+
+---
+
+### 📫 Connect with me:
+- 🌐 LinkedIn: *[Add your LinkedIn link here]*  
+- 📍 Location: Uttar Pradesh, India  
+- 🕒 Local Time: *(automatically shown on GitHub)*
+
+---
+
+### 📊 GitHub Stats:
+![Umang's GitHub stats](https://github-readme-stats.vercel.app/api?username=umanggupta090&show_icons=true&theme=radical)
+
+---
+
+> 💬 "Coding my future, one line at a time."
