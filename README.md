@@ -16,7 +16,7 @@
 ---
 
 ### 📫 Connect with me:
-- 🌐 LinkedIn: *[Add your LinkedIn link here]*  
+- 🌐 LinkedIn: https://www.linkedin.com/in/umanggupta090?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📍 Location: Uttar Pradesh, India  
 - 🕒 Local Time: *(automatically shown on GitHub)*
 
